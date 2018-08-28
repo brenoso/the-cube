@@ -1,0 +1,242 @@
+/* Simple
+.mainDiv{
+    position: relative;
+    width: 206px;
+    height: 190px;
+    margin: 0px auto;
+    margin-top:100px;
+  }
+
+/* Cube */
+
+/* Left */
+.cubeLeft {
+    width:162px;
+    height:162px;
+    border:2px solid black;
+    transform: rotate(30deg) skew(30deg);
+    /* transform: rotate(29deg) skew(30deg); */
+    position: absolute;
+    /* top: 200px; */
+    top: 195px;
+    left:157px;
+}
+
+#left1 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#left2 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#left3 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#left4 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#left5 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#left6 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#left7 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#left8 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#left9 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+
+/* TOP  */
+.cubeTop {
+    width:196px;
+    height:200px;
+    border:2px solid black;
+    border-right:4px solid black;
+    transform: scaleY(0.59) rotate(45deg);
+    /* transform: scaleY(0.53) rotate(45deg); */
+    position:absolute;
+    top:42.5px;
+    left:211px;
+  }
+
+#top1 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+#top2 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+#top3 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+#top4 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+#top5 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+#top6 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+#top7 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+#top8 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+#top9 {
+    background: gray;
+    height:63px;
+    width:61px;
+    border:black 2px solid;
+    float:left;
+}
+
+/* Right */
+  
+.cubeRight {
+    width:162px;
+    height:162px;
+    border:2px solid black;
+    transform: rotate(-30deg) skew(-30deg);
+    /* transform: rotate(-30deg) skew(-29deg); */
+    position:absolute;
+    /* top: 200px; */
+    top: 195px;
+    left:300px;
+}
+
+#right1 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#right2 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#right3 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#right4 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#right5 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#right6 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#right7 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#right8 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
+#right9 {
+    background: gray;
+    height:50px;
+    width:50px;
+    border:black 2px solid;
+    float:left;
+}
